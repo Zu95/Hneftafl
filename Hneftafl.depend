@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1465756173 source:c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\bicie.c
+	<stdio.h>
+
+1465781899 source:c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\gra.c
+	<stdio.h>
+	"ruch.h"
+	"bicie.h"
+
+1465751967 c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\ruch.h
+
+1465756346 c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\bicie.h
+
+1465780459 source:c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gra.h"
+	"ruch.h"
+	"bicie.h"
+
+1465765933 c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\gra.h
+
+1465782168 source:c:\users\jêdrzej\documents\edukacja\wdp\projekt\hneftafl1.1\ruch.c
+	<stdio.h>
+	<stdlib.h>
+
+1465788074 source:c:\users\user\desktop\uj\wdp\hneftafl1.1\bicie.c
+	<stdio.h>
+
+1465788022 source:c:\users\user\desktop\uj\wdp\hneftafl1.1\gra.c
+	<stdio.h>
+	"ruch.h"
+	"bicie.h"
+
+1465755566 c:\users\user\desktop\uj\wdp\hneftafl1.1\ruch.h
+
+1465759946 c:\users\user\desktop\uj\wdp\hneftafl1.1\bicie.h
+
+1465785768 source:c:\users\user\desktop\uj\wdp\hneftafl1.1\ruch.c
+	<stdio.h>
+	<stdlib.h>
+
+1465788248 source:c:\users\user\desktop\uj\wdp\hneftafl1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gra.h"
+	"ruch.h"
+	"bicie.h"
+
+1465769532 c:\users\user\desktop\uj\wdp\hneftafl1.1\gra.h
+
